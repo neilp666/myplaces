@@ -1,3 +1,3 @@
 == README
 
-trip advisor example
+trip advisor example with geocoder
